@@ -1,5 +1,7 @@
-# CIS-3715-Final-Project
+# Nursing Homes Ratings Recommender System
+
 Ashwin Verma
 
-
 Shafiur Chowdhury
+
+
