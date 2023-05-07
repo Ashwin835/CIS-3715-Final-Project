@@ -1,4 +1,4 @@
-# Nursing Homes Ratings Recommender System
+# Recommender System Rating for Nursing Homes
 
 Please refer to the final report for project description, diagrams, code implementation description, and findings
 
